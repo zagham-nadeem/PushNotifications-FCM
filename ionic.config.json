@@ -1,0 +1,7 @@
+{
+  "name": "fcmNotifications",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
