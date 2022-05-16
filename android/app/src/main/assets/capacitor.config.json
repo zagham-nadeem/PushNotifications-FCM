@@ -1,0 +1,15 @@
+{
+	"appId": "com.learn2earn.fcm",
+	"appName": "fcmNotifications",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"PushNotifications": {
+			"presentationOptions": [
+				"badge",
+				"sound",
+				"alert"
+			]
+		}
+	}
+}

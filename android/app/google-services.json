@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491235217002",
+    "project_id": "fcmnotifications-a6215",
+    "storage_bucket": "fcmnotifications-a6215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491235217002:android:5d1bb3071593c353738413",
+        "android_client_info": {
+          "package_name": "com.learn2earn.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491235217002-r7e7oknr074lshe2vuvnnevu8g0q50ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt9_xkEEUTBgWcgoEG1UggQ-vmLDCr8oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491235217002-r7e7oknr074lshe2vuvnnevu8g0q50ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
